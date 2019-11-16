@@ -2,7 +2,7 @@
   "name": "chat-extensions",
   "version": "0.1.0",
   "engines": {
-    "node": ">10.0.0"
+    "node": "13.0.0"
   },
   "description": "Design best practices demo for Chat Extensions on the Messenger Platform.",
   "author": "Facebook Inc.",
